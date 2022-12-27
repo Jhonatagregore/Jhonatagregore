@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jhonatagregored
-- 👀 I’m interested in  aprender Fron ende e back end
+- 👀 I’m interested in  aprender Front-end e back-end
 - 🌱 I’m currently learning  HTML e CSS
 
 <!---
